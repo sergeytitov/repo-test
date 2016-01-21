@@ -1,0 +1,3 @@
+class Freedom {
+	System.out.println("Hurray!!! Freedom!!!")
+}
