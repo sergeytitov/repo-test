@@ -1,0 +1,4 @@
+class Love{
+	System.out.println("All you need is love");
+
+}
